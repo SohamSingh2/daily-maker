@@ -2,6 +2,7 @@
 
 Small generated ideas, one day at a time.
 
+- [2026-09-11](daily/2026-09-11.md)
 - [2026-09-10](daily/2026-09-10.md)
 - [2026-09-09](daily/2026-09-09.md)
 - [2026-09-08](daily/2026-09-08.md)
@@ -68,4 +69,4 @@ Small generated ideas, one day at a time.
 - [2026-07-09](daily/2026-07-09.md)
 - [2026-07-08](daily/2026-07-08.md)
 
-Last generated: 2026-09-10
+Last generated: 2026-09-11
