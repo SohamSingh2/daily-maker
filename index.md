@@ -2,6 +2,7 @@
 
 Small generated ideas, one day at a time.
 
+- [2026-11-24](daily/2026-11-24.md)
 - [2026-11-23](daily/2026-11-23.md)
 - [2026-11-22](daily/2026-11-22.md)
 - [2026-11-21](daily/2026-11-21.md)
@@ -142,4 +143,4 @@ Small generated ideas, one day at a time.
 - [2026-07-09](daily/2026-07-09.md)
 - [2026-07-08](daily/2026-07-08.md)
 
-Last generated: 2026-11-23
+Last generated: 2026-11-24
